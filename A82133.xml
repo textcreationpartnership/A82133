@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Cornish-men concerning the Prince of Wales; and the resolution of the two famous Garrisons of Plymouth and Portsmouth, concerning the Parliament and Army, and their engagement, to live and die together, for the defence and preservation of religion, government, liberty, and ereedome [sic]. Also, the princes declaration and speech touching the death of his father; and his design and resolution touching the Kingdom of Scotland. Imprimatur, Theodore Jennings.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82133</idno>
+            <idno type="STC">Wing D656</idno>
+            <idno type="STC">Thomason E542_4</idno>
+            <idno type="STC">ESTC R205953</idno>
+            <idno type="EEBO-CITATION">99865168</idno>
+            <idno type="PROQUEST">99865168</idno>
+            <idno type="VID">164927</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82133)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164927)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E542[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Cornish-men concerning the Prince of Wales; and the resolution of the two famous Garrisons of Plymouth and Portsmouth, concerning the Parliament and Army, and their engagement, to live and die together, for the defence and preservation of religion, government, liberty, and ereedome [sic]. Also, the princes declaration and speech touching the death of his father; and his design and resolution touching the Kingdom of Scotland. Imprimatur, Theodore Jennings.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.W. for general satisfaction of the Kingdom,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Annotation on Thomason copy: "feb: 9. 1648.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164927:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE Cornish-men Concerning the Prince of WALES; AND The Reſolution of the two famous Garriſons of <hi>Plymouth</hi> and <hi>Portſmouth,</hi> concerning the Parliament and Army, and their Engagement, to live and die together, for the defence and preſervation Of
+<list>
+                  <item>RELIGION,</item>
+                  <item>GOVERNMENT,</item>
+                  <item>LIBERTY, and</item>
+                  <item>EREEDOME.</item>
+               </list>
+            </p>
+            <p>ALSO, The Princes Declaration and Speech touching the Death of His Father; And His Deſign and Reſolution touching the Kingdom of <hi>Scotland.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="lat">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur,</p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <add>feb: 9. 1648</add>
+                              </date>
+                           </dateline> 
+                           <signed>THEODORE JENNINGS.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed for <hi>R.W.</hi> for general ſatisfaction of the Kingdom.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:164927:2"/>
+            <pb n="1" facs="tcp:164927:2"/>
+            <head>A DECLARATION From the Weſt of ENGLAND Containing The Reſolution of the Corniſh-men, touching the Prince of <hi>Wales,</hi> and a Declaration of their Engagement, in relation to the pro<g ref="char:EOLhyphen"/>ceedings of the <hi>Parliament</hi> and <hi>Army.</hi>
+            </head>
+            <div type="part">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>THE Diſtractions in theſe parts begin to grow numerous, and the adverſe party appeareth viſi<g ref="char:EOLhyphen"/>ble it ſeveral places throughout this Weſterne
+<pb n="2" facs="tcp:164927:3"/>Climate, eſpecially ſince the late Blow given to the great Cedar; who upon receipt of the inteſligence, <hi>vow<g ref="char:EOLhyphen"/>ed to revenge his bloud, and prove inſtrumentall, in propa<g ref="char:EOLhyphen"/>gating the Royall ſucceſſion, by crowning the Prince of Wales.</hi> But upon proclaiming of the proclamation, pro<g ref="char:EOLhyphen"/>hibiting the ſame, the pride of their inſolent ſpirits was much abated, and divers who ſeemed to ſmile upon their actions, have now ſhrowded themſelves under the Banner of Freedom, by holding correſpondency with the well affected in theſe parts, and mutually engaging with them in this enſuing Declaration, for the preſerva<g ref="char:EOLhyphen"/>tion of their Relgion and Liberty, from the violation of their inſulting Enemies; a copy of the ſaid Declara<g ref="char:EOLhyphen"/>tion followeth.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="declaration">
+                           <p>WHereas, we having found (by ſad and woful ex<g ref="char:EOLhyphen"/>perience) the continuance of the publike Cala<g ref="char:EOLhyphen"/>mities of this diſtracted County, and bleeding Kingdom to have been principally occaſioned by the prevalency of a corrupted and ſelf-ſeeking party, whoſe daily act<g ref="char:EOLhyphen"/>ings, hath brought forth, croſſe, delatory, and deſtructive proceedings, for obſtructing the peace of this Nation, and infringing the liberty and freedom of the Inhabi<g ref="char:EOLhyphen"/>tants thereof.</p>
+                           <p>And likewiſe conſidering the apparent danger, and ap<g ref="char:EOLhyphen"/>proaching ruine ready to be fall us (if not timely pre<g ref="char:EOLhyphen"/>vented) by reaſon of the Princes being at Sea with a Fleet (conſiſting for the moſt part) of Forreiners, and men diſaffected to the peace of this Kingdom: In order whereunto, and for prevention of the aforeſaid ruine and danger, VVe doe (in the preſence of Almighty God) unanimouſly declare,</p>
+                           <pb n="3" facs="tcp:164927:3"/>
+                           <p> That we ſhall leave no meanes unattempted, for the ſtrengthning and quickning of our hands in this great work of the Parliament and Army, which ſo much re<g ref="char:EOLhyphen"/>dounds to the univerſall peace of this diſtracted King<g ref="char:EOLhyphen"/>dome, the preſervation of our lives, liberties, and free<g ref="char:EOLhyphen"/>doms, from the violation of an arbytrary and ſelf-ſeek<g ref="char:EOLhyphen"/>ing people, and the eſtabliſhing of truth and Righteouſ<g ref="char:EOLhyphen"/>neſſe both in Church and State.</p>
+                           <p>And that according to this our Engagement) we ſhall with the hazard of our lives and fortunes expoſe all that is near and dear unto us, in defence thereof, and for pre<g ref="char:EOLhyphen"/>ſervation of our peace, liberty and freedom, againſt all oppoſition whatſoever either by Sea or Land; being confident, that theſe ſuitable Actings to ſuch juſt prin<g ref="char:EOLhyphen"/>ciples, will ſoon bring in, and promote all the upright in the whole Land to a mutuall compliance and engage<g ref="char:EOLhyphen"/>ment with the Parliament and Army; and not only ſo, but will alſo prove inſtrumentall, for the making of them renowned patterns to all the people of Europe, for the good of all Nations.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>This Declaration was ſubſcribed unto by many hundreds of the well-affected in the Towns of <hi>Plymouth, Portſ<g ref="char:EOLhyphen"/>mouth, Taveſtock,</hi>and other places, with a Reſolution to live and dye with the Parliament and Army in all righteouſneſse, for defence and ſafety of the Reli<g ref="char:EOLhyphen"/>gion, Government, and the publike peace and intereſt of the Kingdome.</p>
+               <pb n="4" facs="tcp:164927:4"/>
+               <p> The moderate party about <hi>Taunton</hi> have likewiſe de<g ref="char:EOLhyphen"/>clared for the Par. and army, and are reſolved to put themſelves into a poſture of defence, and to oppoſe the landing of the Princes Forces, whoſe floting up and down the Neptune Seas, and riding in our VVeſterne Channel, cauſeth ſome fear of jealouſie: they are very numerous in ſhipping, but are ſlightly arm'd, and weak<g ref="char:EOLhyphen"/>ly man'd; yet ſeem to be very full of courage, and reſo<g ref="char:EOLhyphen"/>luteneſſe of ſpirit; for within theſe few dayes, upon the landing of ſome of the <hi>Hoptonians</hi> neere <hi>Dartmouth,</hi> an allarum being given, that Sir <hi>Hardreſſe Wallers</hi> For<g ref="char:EOLhyphen"/>ces were upon their march to receive them, the Soldie<g ref="char:EOLhyphen"/>ry declared a great willingneſſe to fight them; but the Officers cauſed them all to quit their Land-ſanctuary, and to haſten aboard.</p>
+               <p>The Fleet conſiſteth of 28 Sayl, but Pr. <hi>Rupert</hi> gene<g ref="char:EOLhyphen"/>rally hated amongſt them all: the Lord <hi>Hopton</hi> hath the greateſt influence on the Sea-men, who wa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>teth an op<g ref="char:EOLhyphen"/>portunity for the playing of his game.</p>
+               <p>There are divers in the town of <hi>Plymouth</hi> who ſeeme to be much diſcontented at the death of the King, and have declared a great deale of ſadneſſe, and vexation of ſpirit, in relerence to the ſame; who accordingly upon receipt thereof, diſpatched a meſſenger aboard the Prin<g ref="char:EOLhyphen"/>ces Fleet, to advertize them thereof; but the Governour hath ſhewn a great deal of wiſdom and integrity, in pre<g ref="char:EOLhyphen"/>ſervation of the peace of the Inhabitants, and allaying all differences.</p>
+               <p>The Princes Agent (during his private reſidence in the ſaid town) had wrought exceedingly upon the hearts of many; inſomuch, that divers would not ſtick to ſay, <hi>That if they were deprived of the Father, they would endeavour
+<pb n="5" facs="tcp:164927:4"/>the Inthroning of the Son;</hi> but moſt of this Royall Fa<g ref="char:EOLhyphen"/>ction are now ſilenced, ſince the <hi>Kings</hi> death, and the reſt will be proceeded againſt in a way of Juſtice.</p>
+               <closer>
+                  <dateline>Exceter <date>5 Feb. 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="part">
+               <p>Other Letters from the VVeſt make mention, That divers of the well-affected in the Counties adjacent, upon a meeting near Taunton, on the 3. of this inſtant, declared their Reſolutions, and entred into proteſt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion, to ſacrifice lives and fortunes in the defence of Parlia<g ref="char:EOLhyphen"/>ment and Army, for the obtaining of Juſtice, Liberty, and Freedom, together with the common Rights of the people of <hi>England.</hi>
+               </p>
+               <p>And do deſire, that impartiall Juſtice may (without detraction of time) be forthwith executed upon all Offendeas wdo have beene ayding and aſſiſting in this tyrannicall, and bloudy war, and promoted the Deſignes of the adverſe party, againſt the well-affected of this Kingdom.</p>
+               <p>Since which Declaratory Expreſſions from the ſaid well-affected party, the ſpirits of malignancy have been much abated in theſe parts: But in ſome parts of He<g ref="char:EOLhyphen"/>reford, &amp; Somertſetſhire, the Coles of Enmity are kind<g ref="char:EOLhyphen"/>ling, and ready to break forth into new flames of Diſ<g ref="char:EOLhyphen"/>cord and Contention, the Clergy ſtirring up the people in their pulpits, and uſing all meanes poſſible to incite them to an Engagement againſt the <hi>Parliament</hi> and <hi>Ar<g ref="char:EOLhyphen"/>my.</hi>
+               </p>
+               <closer>
+                  <dateline>Glouceſter <date>5. Feb. 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:164927:5"/>
+               <opener>
+                  <dateline>
+                     <date>Feb. 7.</date>
+                  </dateline>
+               </opener>
+               <p>Letters from Southampton ſay, That divers of the Princes men deſert him daily, being not willing <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o engage either with the Iriſh or Scots, againſt the Engliſh: they further intimate, that on Friday <hi>Feb.</hi> 2. the Prince received intelligence of his Fathers death, and being much aſtoniſh'd thereat, declared himſelf with a ſad dejected countenance, to divers Gentlemen attending his perſon, ſaying, <hi>O unfortunate Prince, that ever I ſhould live to ſee this day; now woe be vnto the Kingdome of England:</hi> with that, the tears trickled down his cheeks, and his Highneſſe betook himſelf to ſome privacy for a while: Some roport, that he hath deſigned his reſoluti<g ref="char:EOLhyphen"/>on for Scotland; it being ſaid, that the Jockies intend to crown him at <hi>Edenburgh,</hi> and then he will revenge his Fathers quarrel. But thoſe that cover to ſwim in the bloud of Saints, ſhall aſſuredly ſink in the gulf of Gods eternall wrath.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
